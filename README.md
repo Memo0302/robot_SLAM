@@ -96,5 +96,5 @@ roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
 ```
 roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 
-![Screenshot from 2023-08-04 23-49-51](https://github.com/Memo0302/robot_SLAM/assets/92684739/7fe69ec6-e5bd-47b8-a615-25f6296fd195)
 
+![ROBOT_SLAM](https://github.com/Memo0302/robot_SLAM/assets/92684739/34573417-c34c-4754-a209-c962c67db0ac)
